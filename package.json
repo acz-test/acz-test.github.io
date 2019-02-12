@@ -1,0 +1,22 @@
+{
+  "name": "acz-test.github.io",
+  "version": "1.0.0",
+  "description": "my site packages",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://acz-test:azGTHB1*@github.com/acz-test/acz-test.github.io.git"
+  },
+  "author": "andrew zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acz-test/acz-test.github.io/issues"
+  },
+  "homepage": "https://github.com/acz-test/acz-test.github.io#readme",
+  "dependencies": {
+    "react": "^16.8.1"
+  }
+}
